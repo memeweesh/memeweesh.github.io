@@ -1,6 +1,6 @@
 --- 
-layout: post 
-title: "Site Launched " 
+layout: default 
+title: "Site Launched" 
 date: 2022-09-22 
 --- 
  
