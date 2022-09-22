@@ -1,4 +1,4 @@
 name: web programming
 markdown: kramdown
 
-permalink: /blog/:2022/:09/:22/:site-launched 
+permalink: permalink: /blog/:year/:month/:day/:title 
